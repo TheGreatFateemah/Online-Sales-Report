@@ -37,7 +37,7 @@ The report comprises 3 pages:
 2.	Revenue by Region
 3.	Top customers
 
-You can view with the report [here](https://app.powerbi.com/links/4A-P-n-3RX?ctid=05099fa7-fe06-4a4d-8079-3c425fe8734b&pbi_source=linkShare)
+You can view the report [here](https://app.powerbi.com/links/4A-P-n-3RX?ctid=05099fa7-fe06-4a4d-8079-3c425fe8734b&pbi_source=linkShare)
 
 ## Analysis:
 
